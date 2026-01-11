@@ -56,8 +56,6 @@ We probed the raw logits of the Judge (Qwen-72B).
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/devils-tongue.git
-cd devils-tongue
-pip install -r requirements.txt
+git clone https://github.com/manoj060603/Apart_Hackathon_Project.git
 # Key dependency is vLLM for high-throughput inference
 pip install vllm seaborn matplotlib pandas
