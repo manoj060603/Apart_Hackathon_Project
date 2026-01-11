@@ -1,0 +1,302 @@
+[
+  {
+    "id": "Adversarial_2847",
+    "prob_liar": 4.7180287263921715e-09,
+    "prob_truth": 0.9999999942819711,
+    "logit_diff": -19.17187476158145
+  },
+  {
+    "id": "Adversarial_1171",
+    "prob_liar": 0.0005033355711426547,
+    "prob_truth": 0.9994966634288572,
+    "logit_diff": -7.593750007566996
+  },
+  {
+    "id": "Adversarial_5881",
+    "prob_liar": 3.5968409466550416e-08,
+    "prob_truth": 0.9999999630315903,
+    "logit_diff": -17.14062476158145
+  },
+  {
+    "id": "Adversarial_6313",
+    "prob_liar": 4.546828072884975e-08,
+    "prob_truth": 0.9999999535317182,
+    "logit_diff": -16.906250834465595
+  },
+  {
+    "id": "Adversarial_6650",
+    "prob_liar": 5.9551414722752735e-06,
+    "prob_truth": 0.9999940438585276,
+    "logit_diff": -12.031249642390776
+  },
+  {
+    "id": "Adversarial_4470",
+    "prob_liar": 4.5397857786766394e-05,
+    "prob_truth": 0.9999546011422131,
+    "logit_diff": -10.000000239455403
+  },
+  {
+    "id": "Adversarial_5498",
+    "prob_liar": 2.372373834968775e-09,
+    "prob_truth": 0.999999996627626,
+    "logit_diff": -19.85937476158145
+  },
+  {
+    "id": "Adversarial_3185",
+    "prob_liar": 0.00757724094513127,
+    "prob_truth": 0.9924227580548675,
+    "logit_diff": -4.875000041909516
+  },
+  {
+    "id": "Adversarial_5590",
+    "prob_liar": 8.714337513866827e-07,
+    "prob_truth": 0.9999991275662485,
+    "logit_diff": -13.95312511920963
+  },
+  {
+    "id": "Adversarial_7471",
+    "prob_liar": 2.5867440297364955e-05,
+    "prob_truth": 0.9999741315597025,
+    "logit_diff": -10.562499642712282
+  },
+  {
+    "id": "Adversarial_4558",
+    "prob_liar": 4.450852637290619e-07,
+    "prob_truth": 0.9999995539147363,
+    "logit_diff": -14.624999523162955
+  },
+  {
+    "id": "Adversarial_6009",
+    "prob_liar": 2.3823699495524574e-07,
+    "prob_truth": 0.999999760763005,
+    "logit_diff": -15.249999642372188
+  },
+  {
+    "id": "Adversarial_3469",
+    "prob_liar": 6.502819090884452e-05,
+    "prob_truth": 0.999934970809091,
+    "logit_diff": -9.640624644496711
+  },
+  {
+    "id": "Adversarial_3796",
+    "prob_liar": 5.453294848818974e-07,
+    "prob_truth": 0.9999994536705148,
+    "logit_diff": -14.42187511920963
+  },
+  {
+    "id": "Adversarial_3683",
+    "prob_liar": 4.618434046986172e-08,
+    "prob_truth": 0.9999999528156596,
+    "logit_diff": -16.890625
+  },
+  {
+    "id": "Adversarial_3389",
+    "prob_liar": 1.0571702708036085e-07,
+    "prob_truth": 0.9999998932829728,
+    "logit_diff": -16.06249976158145
+  },
+  {
+    "id": "Adversarial_8301",
+    "prob_liar": 2.521572707060437e-06,
+    "prob_truth": 0.999997477427292,
+    "logit_diff": -12.890625238424946
+  },
+  {
+    "id": "Adversarial_7396",
+    "prob_liar": 6.286164124232727e-10,
+    "prob_truth": 0.9999999983713834,
+    "logit_diff": -21.187499880790718
+  },
+  {
+    "id": "Adversarial_5872",
+    "prob_liar": 9.237449567402668e-09,
+    "prob_truth": 0.9999999897625503,
+    "logit_diff": -18.5
+  },
+  {
+    "id": "Adversarial_9600",
+    "prob_liar": 0.15817434663775407,
+    "prob_truth": 0.8418256523622404,
+    "logit_diff": -1.6718750447034836
+  },
+  {
+    "id": "Adversarial_5152",
+    "prob_liar": 6.933095460555732e-08,
+    "prob_truth": 0.9999999296690447,
+    "logit_diff": -16.48437428474449
+  },
+  {
+    "id": "Adversarial_5736",
+    "prob_liar": 2.796931298919282e-05,
+    "prob_truth": 0.9999720296870108,
+    "logit_diff": -10.484374642765033
+  },
+  {
+    "id": "Adversarial_2275",
+    "prob_liar": 1.7983070751683493e-07,
+    "prob_truth": 0.9999998191692925,
+    "logit_diff": -15.53124976158145
+  },
+  {
+    "id": "Adversarial_8713",
+    "prob_liar": 1.4593769154999762e-06,
+    "prob_truth": 0.9999985396230845,
+    "logit_diff": -13.437499523163865
+  },
+  {
+    "id": "Adversarial_9851",
+    "prob_liar": 0.0001313517957967703,
+    "prob_truth": 0.999868647204203,
+    "logit_diff": -8.93750000865839
+  },
+  {
+    "id": "Adversarial_9241",
+    "prob_liar": 3.1071937312178637e-07,
+    "prob_truth": 0.9999996882806267,
+    "logit_diff": -14.98437535762804
+  },
+  {
+    "id": "Adversarial_5663",
+    "prob_liar": 3.3596797993386006e-07,
+    "prob_truth": 0.99999966303202,
+    "logit_diff": -14.906249642372188
+  },
+  {
+    "id": "Adversarial_4340",
+    "prob_liar": 0.0024726226442024993,
+    "prob_truth": 0.9975273763557972,
+    "logit_diff": -6.000000206753612
+  },
+  {
+    "id": "Adversarial_1866",
+    "prob_liar": 0.08035747314664157,
+    "prob_truth": 0.9196425258533574,
+    "logit_diff": -2.4374999403953552
+  },
+  {
+    "id": "Adversarial_3273",
+    "prob_liar": 2.575955751240904e-07,
+    "prob_truth": 0.9999997414044247,
+    "logit_diff": -15.17187476158145
+  },
+  {
+    "id": "Adversarial_8949",
+    "prob_liar": 0.007345825195333431,
+    "prob_truth": 0.9926541738046664,
+    "logit_diff": -4.90625018812716
+  },
+  {
+    "id": "Adversarial_5954",
+    "prob_liar": 3.486176957312009e-08,
+    "prob_truth": 0.9999999641382304,
+    "logit_diff": -17.171875
+  },
+  {
+    "id": "Adversarial_1256",
+    "prob_liar": 5.691027605027302e-09,
+    "prob_truth": 0.9999999933089723,
+    "logit_diff": -18.984375
+  },
+  {
+    "id": "Adversarial_2940",
+    "prob_liar": 5.805001253237893e-07,
+    "prob_truth": 0.9999994184998745,
+    "logit_diff": -14.359375238418806
+  },
+  {
+    "id": "Adversarial_7635",
+    "prob_liar": 6.502819090884452e-05,
+    "prob_truth": 0.999934970809091,
+    "logit_diff": -9.640624644496711
+  },
+  {
+    "id": "Adversarial_4441",
+    "prob_liar": 1.3517375441065292e-09,
+    "prob_truth": 0.9999999976482623,
+    "logit_diff": -20.421875
+  },
+  {
+    "id": "Adversarial_1092",
+    "prob_liar": 3.9337823984498073e-10,
+    "prob_truth": 0.9999999986066213,
+    "logit_diff": -21.656249523162955
+  },
+  {
+    "id": "Adversarial_2745",
+    "prob_liar": 1.0261880843698327e-10,
+    "prob_truth": 0.9999999988973811,
+    "logit_diff": -22.999999880790718
+  },
+  {
+    "id": "Adversarial_1182",
+    "prob_liar": 0.0,
+    "prob_truth": 0.9999999989999999,
+    "logit_diff": -999.0
+  },
+  {
+    "id": "Adversarial_4933",
+    "prob_liar": 0.00926801141335001,
+    "prob_truth": 0.9907319875866498,
+    "logit_diff": -4.67187521327287
+  },
+  {
+    "id": "Adversarial_3367",
+    "prob_liar": 1.014535600385106e-08,
+    "prob_truth": 0.9999999888546438,
+    "logit_diff": -18.40624976158145
+  },
+  {
+    "id": "Adversarial_4148",
+    "prob_liar": 1.202963620358655e-05,
+    "prob_truth": 0.9999879693637963,
+    "logit_diff": -11.328125238492248
+  },
+  {
+    "id": "Adversarial_6059",
+    "prob_liar": 1.0289512247853777e-05,
+    "prob_truth": 0.9999897094877512,
+    "logit_diff": -11.484375119273864
+  },
+  {
+    "id": "Adversarial_5329",
+    "prob_liar": 1.2679279727992436e-06,
+    "prob_truth": 0.9999987310720269,
+    "logit_diff": -13.578125238419943
+  },
+  {
+    "id": "Adversarial_8604",
+    "prob_liar": 1.3232037097847194e-08,
+    "prob_truth": 0.9999999857679629,
+    "logit_diff": -18.140624880790718
+  },
+  {
+    "id": "Adversarial_9403",
+    "prob_liar": 1.7330514603997033e-06,
+    "prob_truth": 0.9999982659485377,
+    "logit_diff": -13.26562511921611
+  },
+  {
+    "id": "Adversarial_4621",
+    "prob_liar": 0.00014883848075655947,
+    "prob_truth": 0.9998511605192426,
+    "logit_diff": -8.812500011204975
+  },
+  {
+    "id": "Adversarial_3834",
+    "prob_liar": 2.0145700434159615e-05,
+    "prob_truth": 0.9999798532995645,
+    "logit_diff": -10.812499523393853
+  },
+  {
+    "id": "Adversarial_2746",
+    "prob_liar": 1.4532554898911775e-08,
+    "prob_truth": 0.9999999844674446,
+    "logit_diff": -18.046874523162955
+  },
+  {
+    "id": "Adversarial_2293",
+    "prob_liar": 3.6478524569375485e-05,
+    "prob_truth": 0.9999635204754302,
+    "logit_diff": -10.218750358304533
+  }
+]
